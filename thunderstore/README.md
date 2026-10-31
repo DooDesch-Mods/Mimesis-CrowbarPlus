@@ -4,6 +4,8 @@ Tune the crowbar knockback and throw. All defaults preserve native combat, gravi
 
 > 🛟 **Need help or found a bug?** Get support at [support.doodesch.de/crowbarplus](https://support.doodesch.de/crowbarplus).
 
+![CrowbarPlus in MIMESIS](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-CrowbarPlus/main/docs/img/header.jpg)
+
 For MIMESIS and MelonLoader 0.7.3. A separate mod for the **Crowbar** (item 2900). Install any combination of the six weapon mods. No MimicAPI or separate weapon-core DLL is required.
 
 ## Install
@@ -46,6 +48,12 @@ Optional tuning starts at **1.0 = native**. The primary unlimited mode is enable
 | `ShowInfinity` | `true` | Local HUD only: show infinity for unlimited ammunition, energy or protected bat durability |
 
 Thrown crowbars leave the inventory and can be recovered after collision as in the original game. This mod does not teleport thrown items back into the inventory. Swing damage includes the native crowbar hit effect.
+
+## In game
+
+![The native Crowbar staged on the Maintenance floor.](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-CrowbarPlus/main/docs/img/in-game.jpg)
+
+The native Crowbar staged on the Maintenance floor.
 
 ## Build
 
