@@ -1,0 +1,12 @@
+{
+  "name": "CrowbarPlus",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/DooDesch-Mods/Mimesis-CrowbarPlus",
+  "description": "Tune the crowbar knockback and throw. All defaults preserve native combat, gravity and recovery of the thrown crowbar.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ],
+  "contributors": [
+    "DooDesch"
+  ]
+}
